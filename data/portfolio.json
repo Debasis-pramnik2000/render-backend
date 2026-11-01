@@ -1,0 +1,36 @@
+{
+  "name": "Debasis Pramanik",
+  "title": "MERN Stack Developer",
+  "email": "pramanikdebasis2003@gmail.com",
+  "github": "https://github.com/Debasis-pramnik2000/",
+  "linkedin": "https://www.linkedin.com/in/debasis-pramanik-17492535b/",
+  "about": "I am pursuing BCA from TIMT under MAKAUT. I'm a passionate MERN Stack Developer who loves creating full-stack web applications using React, Node.js, Express, and MongoDB.",
+  "skills": [
+    { "name": "MongoDB", "level": 90 },
+    { "name": "Express.js", "level": 85 },
+    { "name": "React", "level": 90 },
+    { "name": "Node.js", "level": 88 }
+  ],
+  "projects": [
+    {
+      "title": "MERN Portfolio",
+      "desc": "Personal portfolio website using React, Node.js, Express & MongoDB.",
+      "link": "https://github.com/Debasis-pramnik2000/mern-portfolio"
+    },
+    {
+      "title": "Todo App",
+      "desc": "Simple MERN-based Todo Application with MongoDB backend.",
+      "link": "https://github.com/Debasis-pramnik2000/todo-mern"
+    },
+    {
+      "title": "Weather App",
+      "desc": "React app fetching live weather data from OpenWeather API.",
+      "link": "https://github.com/Debasis-pramnik2000/weather-app"
+    }
+  ],
+  "stats": {
+    "projects": "5+",
+    "yearsCoding": "2+",
+    "technologies": "5+"
+  }
+}
